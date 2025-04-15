@@ -41,9 +41,9 @@ It reflects both front-end and back-end expertise with real-time systems, API de
 
 > 💡 Make sure the image files are uploaded in your repo under `frontend/public/` or any valid path.
 
-![Real-Time Chat](https://github.com/RatulSen555/mern-chat-application/blob/main/frontend/public/Screenshot%201.PNG?raw=true)
+![Real-Time Chat](https://github.com/RatulSen555/mern-chat-application/frontend/public/Screenshot%201.PNG?raw=true)
 
-![Login Page](https://github.com/RatulSen555/mern-chat-application/blob/main/frontend/public/Screenshot%202.PNG?raw=true)
+![Login Page](https://github.com/RatulSen555/mern-chat-application/frontend/public/Screenshot%202.PNG?raw=true)
 
 ---
 
