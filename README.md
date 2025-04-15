@@ -38,11 +38,12 @@ It reflects both front-end and back-end expertise with real-time systems, API de
 ---
 
 ## 🖼️ Screenshots
- [Picture One of working at the Real Time Chat](frontend/public/Screenshot 1.PNG)
- 
- [Picture One of Login Page](frontend/public/Screenshot 2.PNG)
 
+> 💡 Make sure the image files are uploaded in your repo under `frontend/public/` or any valid path.
 
+![Real-Time Chat](https://github.com/RatulSen555/mern-chat-application/blob/main/frontend/public/Screenshot%201.PNG?raw=true)
+
+![Login Page](https://github.com/RatulSen555/mern-chat-application/blob/main/frontend/public/Screenshot%202.PNG?raw=true)
 
 ---
 
@@ -52,7 +53,7 @@ It reflects both front-end and back-end expertise with real-time systems, API de
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/mern-chat-application.git
+git clone https://github.com/RatulSen555/mern-chat-application.git
 cd mern-chat-application/backend
 
 # Install dependencies
@@ -66,7 +67,6 @@ PORT=5000
 # Run server
 npm start
 
-
 💻 Frontend Setup
 cd mern-chat-application/frontend
 
@@ -79,6 +79,7 @@ npm run dev
 # Open in your browser
 http://localhost:3000
 
+
 🏆 Highlights
 Built with real-time communication principles.
 
@@ -88,9 +89,12 @@ Scalable structure following industry standards.
 
 Ready for deployment on platforms like Render / Vercel / Railway.
 
-🤝 Credits
-Inspired by this build:
-YouTube Project Video
 
-Made with 💖 by Ratul Sen.
+🤝 Credits
+This project was inspired by the amazing YouTube tutorial:
+Real-Time Chat App - MERN Stack
+
+Customized, enhanced, and maintained by Ratul Sen.
+
+
 
