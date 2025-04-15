@@ -12,6 +12,8 @@ This full-stack project demonstrates a real-time chat platform that allows users
 - Send and receive messages instantly via WebSockets.
 - Handle user lists and chat rooms.
 - Experience a responsive and intuitive chat UI.
+- Implemented real-time messaging that handles 100+ concurrent users
+- Implemented JWT authentication with refresh token rotation for enhanced security
 
 It reflects both front-end and back-end expertise with real-time systems, API design, authentication, and state management.
 
