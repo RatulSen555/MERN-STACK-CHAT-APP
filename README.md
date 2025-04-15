@@ -49,7 +49,6 @@ It reflects both front-end and back-end expertise with real-time systems, API de
 
 ### 🧑‍💻 Backend Setup
 
-```bash
 # Clone the repository
 git clone https://github.com/RatulSen555/mern-chat-application.git
 cd mern-chat-application/backend
