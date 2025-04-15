@@ -39,11 +39,9 @@ It reflects both front-end and back-end expertise with real-time systems, API de
 
 ## 🖼️ Screenshots
 
-> 💡 Make sure the image files are uploaded in your repo under `frontend/public/` or any valid path.
+![Real-Time Chat](https://github.com/RatulSen555/MERN-STACK-CHAT-APP/blob/main/frontend/public/Screenshot%201.PNG?raw=true)
 
-![Real-Time Chat](https://github.com/RatulSen555/mern-chat-application/frontend/public/Screenshot%201.PNG?raw=true)
-
-![Login Page](https://github.com/RatulSen555/mern-chat-application/frontend/public/Screenshot%202.PNG?raw=true)
+![Login Page](https://github.com/RatulSen555/MERN-STACK-CHAT-APP/blob/main/frontend/public/Screenshot%202.PNG?raw=true)
 
 ---
 
@@ -89,12 +87,13 @@ Scalable structure following industry standards.
 
 Ready for deployment on platforms like Render / Vercel / Railway.
 
+## 🤝 Credits
 
-🤝 Credits
-This project was inspired by the amazing YouTube tutorial:
-Real-Time Chat App - MERN Stack
+This project was inspired by the amazing YouTube tutorial:  
+[Real-Time Chat App - MERN Stack (YouTube Tutorial)](https://youtu.be/HwCqsOis894?si=1NXmfHj9hB6wuOPh)
 
-Customized, enhanced, and maintained by Ratul Sen.
+Customized, enhanced, and maintained by [Ratul Sen](https://github.com/RatulSen555).
+
 
 
 
